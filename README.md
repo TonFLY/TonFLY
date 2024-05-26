@@ -25,5 +25,6 @@ Estou em busca de um estágio ou oportunidade de aprendizado na área de anális
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/tonfly/
-* E-mail: techwellington.dev@gmail.com
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonfly/)
+* [![E-mail](https://img.shields.io/badge/E-mail-techwellington.dev%40gmail.com-blue)](mailto:techwellington.dev@gmail.com)
+
