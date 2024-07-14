@@ -5,7 +5,7 @@ Sou um(a) estudante apaixonado(a) por dados e cursando Análise de Dados na EBAC
 ## 📚 Sobre Mim
 
 * Estudante de Análise de Dados na EBAC, com previsão de conclusão em agosto de 2024.
-* Buscando aprimorar minhas habilidades em Python, R, SQL, Power BI, Tableau, Docker.
+* Buscando aprimorar minhas habilidades em Python, SQL, Power BI, Google Data Studio (Looker), Docker.
 * Motivado(a) a aprender e crescer na área de análise de dados.
 
 ## ⚙️ Habilidades em Desenvolvimento
