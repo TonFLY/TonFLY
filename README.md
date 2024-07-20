@@ -29,7 +29,7 @@ Sou um(a) estudante apaixonado(a) por dados e cursando Análise de Dados na EBAC
 * **Analise exploratoria Loggi :** Análise Exploratória de Dados de Logística - [Kaggle](https://www.kaggle.com/code/marqu3s/loggi)
 
 ## 🌱 Projetos Pessoais
-* **Analise de credito com aplicação web:** https://github.com/TonFLY/analise_credito_com_appweb
+* **Analise de credito com aplicação web:** [Repositório](https://github.com/TonFLY/analise_credito_com_appweb)
 
 ## 🎯 Meu Objetivo
 
