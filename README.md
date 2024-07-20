@@ -33,7 +33,7 @@ Sou um(a) estudante apaixonado(a) por dados e cursando Análise de Dados na EBAC
 
 ## 🎯 Meu Objetivo
 
-Estou em busca de um estágio ou oportunidade de aprendizado na área de análise de dados, onde possa aplicar meus conhecimentos em projetos reais e contribuir para o sucesso da equipe.
+Busco uma oportunidade na área de dados onde possa aprimorar minhas habilidades, colaborar com equipes multidisciplinares e contribuir ativamente para projetos inovadores.
 
 ## 📫 Contato
 
