@@ -7,7 +7,7 @@ Sou um(a) estudante apaixonado(a) por dados e cursando Análise de Dados na EBAC
 * Estudante de Análise de Dados na EBAC, com previsão de conclusão em agosto de 2024.
 * Estudande de Ciencia de Dados na EIA (Escola de Inteligencia Artificial), com previsão de conclusão em março de 2025.
 * Cursando Analise e Desenvolvimento de Sistemas na UNIFATECIE com previsão de conclusão em Dezembro de 2025.
-* Buscando aprimorar minhas habilidades em Python,Machine Learning, SQL, Nuvem com AWS e Docker.
+* Buscando aprimorar minhas habilidades em Python, Machine Learning, SQL, Nuvem com AWS e Docker.
 * Motivado a aprender e crescer na área de dados.
 
 ## ⚙️ Habilidades em Desenvolvimento
