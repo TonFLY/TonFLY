@@ -73,4 +73,4 @@ Busco uma oportunidade na área de dados onde possa colaborar com equipes multid
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonfly/)
 * <a href="mailto:contato.wellingtonm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 * [Portfólio](https://wellingtonfly.site/)
-* **GitHub**: [github.com/tonfly](https://github.com/tonfly)
+* [GitHub](https://github.com/tonfly)
