@@ -1,4 +1,4 @@
-# Olá! 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=AA2CF7&width=435&lines=Ol%C3%A1%2C+sou+Wellington+Marques;Sou+apaixonado+por+dados!!" alt="Typing SVG" /></a>
 
 Sou Wellington Marques, um profissional dedicado e apaixonado por dados, com formação em Análise de Dados pela EBAC e atualmente expandindo minhas competências em Ciência de Dados e Desenvolvimento de Sistemas. Como fundador da 14Bis Analítica, atuo com uma equipe focada em soluções de Business Intelligence e Data Science.
 
