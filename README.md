@@ -7,8 +7,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonfly&show_icons=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonfly&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tonfly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonfly&layout=compact&langs_count=6&theme=dracula&hide_border=true" 
+    height="160"
+  />
 </div>
 
 ---
@@ -20,7 +26,7 @@
 Sou **profissional da área de dados**, com foco em **Engenharia de Dados aplicada**, pipelines em nuvem e construção de produtos orientados a dados.  
 Atuo desde a **coleta, processamento e modelagem** até a **entrega do dado via aplicações, dashboards e APIs**.
 
-Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Data Engineering e Data Science**, sempre buscando unir **engenharia + negócio**.
+Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Engenharia de Dados e Data Science**, sempre conectando **engenharia e negócio**.
 
 ---
 
@@ -40,13 +46,21 @@ Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Data E
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
 </div>
 
@@ -55,7 +69,7 @@ Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Data E
 ## 📚 Formação & Estudos
 
 - **Análise de Dados – EBAC** (concluído)
-- **Ciência de Dados – EIA (Escola de Inteligência Artificial)**  
+- **Ciência de Dados – EIA (Escola de Inteligência Artificial)**
 - **Análise e Desenvolvimento de Sistemas – Unifatecie**
 - **AWS Re/Start** – fundamentos práticos de Cloud
 - **Google Data Analyst – Advanced**
@@ -76,29 +90,33 @@ Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Data E
 ## 🚀 Projetos em destaque
 
 ### 🔹 Engenharia de Dados
-- **Pipeline de Dados no AWS**  
-  Extração de dados do Telegram, ingestão em Data Lake e processamento batch.
-  - https://github.com/TonFLY/pipeline_dados_telegram_aws
+**Pipeline de Dados no AWS**  
+Pipeline completo com ingestão de dados do Telegram, armazenamento em Data Lake e processamento batch.  
+🔗 https://github.com/TonFLY/pipeline_dados_telegram_aws
+
+---
 
 ### 🔹 Aplicações de Dados
-- **Análise de Crédito com Aplicação Web**  
-  Aplicação completa com Machine Learning para simulação de crédito.
-  - https://github.com/TonFLY/analise_credito_com_appweb
+**Análise de Crédito com Aplicação Web**  
+Aplicação web com Machine Learning para simulação de análise de crédito.  
+🔗 https://github.com/TonFLY/analise_credito_com_appweb
+
+---
 
 ### 🔹 Análises & Dashboards
-- **COVID-19 Brasil – EDA + Dashboard**
-  - https://github.com/TonFLY/BRAZIL_COVID-19
-  - https://lookerstudio.google.com/reporting/09fee03d-e295-42ba-a408-72f7e187a375
+**COVID-19 Brasil – EDA + Dashboard**  
+🔗 https://github.com/TonFLY/BRAZIL_COVID-19  
+🔗 https://lookerstudio.google.com/reporting/09fee03d-e295-42ba-a408-72f7e187a375
 
 ---
 
 ## 🎯 Objetivo
 
 Atuar em projetos onde dados **não sejam apenas análise**, mas **produto**, contribuindo com:
-- pipelines bem estruturados
-- dados confiáveis
-- soluções escaláveis
-- impacto real no negócio
+- pipelines bem estruturados  
+- dados confiáveis  
+- soluções escaláveis  
+- impacto real no negócio  
 
 ---
 
