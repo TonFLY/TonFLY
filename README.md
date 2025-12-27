@@ -3,20 +3,7 @@
 ## Engenharia de Dados na prática  
 ### Transformando dados em produto
 
----
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tonfly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonfly&layout=compact&langs_count=6&theme=dracula&hide_border=true" 
-    height="160"
-  />
-</div>
-
----
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/fd/3c/cd/fd3ccd7b49e366b4206f5ac7f8fa8dac.gif"/>
 
