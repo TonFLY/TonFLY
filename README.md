@@ -1,8 +1,7 @@
-<h2 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=AA2CF7&width=520&lines=Olá%2C+sou+Wellington+Marques;Engenharia+de+Dados+na+prática;Transformando+dados+em+produto" alt="Typing SVG" />
-  </a>
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Wellington%20Marques&fontSize=32&fontAlignY=35" />
+
+## Engenharia de Dados na prática  
+### Transformando dados em produto
 
 ---
 
@@ -78,12 +77,12 @@ Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Engenh
 
 ## 📜 Certificações & Cursos
 
-- Scrum Foundation
-- BI Foundation
-- Métricas de Negócios Digitais (PM3)
-- Databricks, Spark e Machine Learning
-- Power BI + SQL Server
-- SQL para Análise de Dados
+- Scrum Foundation  
+- BI Foundation  
+- Métricas de Negócios Digitais (PM3)  
+- Databricks, Spark e Machine Learning  
+- Power BI + SQL Server  
+- SQL para Análise de Dados  
 
 ---
 
