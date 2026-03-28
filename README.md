@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Wellington%20Marques&fontSize=32&fontAlignY=35" />
 
 ## Engenharia de Dados na prática  
-### Transformando dados em produto
+### Construindo pipelines, integrando dados e entregando soluções confiáveis
 
 
 
@@ -9,65 +9,90 @@
 
 ## 👋 Sobre mim
 
-Sou **profissional da área de dados**, com foco em **Engenharia de Dados aplicada**, pipelines em nuvem e construção de produtos orientados a dados.  
-Atuo desde a **coleta, processamento e modelagem** até a **entrega do dado via aplicações, dashboards e APIs**.
+Sou profissional da área de dados, com atuação sólida em **SQL Server** e foco atual em **Engenharia de Dados**.  
+Tenho experiência com **ingestão, transformação, integração e organização de dados**, apoiando ambientes corporativos de missão crítica e times de desenvolvimento, BI e analytics.
 
-Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Engenharia de Dados e Data Science**, sempre conectando **engenharia e negócio**.
+Minha atuação envolve construção e manutenção de **pipelines de dados**, integração com **APIs**, automação de processos com **Python**, modelagem de dados e preparação de informações para consumo analítico e operacional.
+
+Também sou fundador da **14Bis Analítica**, iniciativa voltada ao desenvolvimento de soluções em **BI, Engenharia de Dados e produtos orientados a dados**.
 
 ---
 
 ## 🧠 Atuação atual
 
-- Engenharia de Dados (ETL / ELT)
-- Pipelines em **AWS**
-- Processamento de dados em batch
-- Integração de APIs e fontes externas
-- Deploy de aplicações com **Docker**
-- Dashboards e produtos de dados
-- Aplicações orientadas a dados (web)
+- Construção e manutenção de pipelines de dados
+- Processos de ETL / ELT
+- Integração com APIs e fontes externas
+- Tratamento e organização de dados estruturados
+- Modelagem de dados para consumo analítico
+- Consultas SQL e otimização de desempenho
+- Automação de rotinas com Python
+- Deploy de aplicações e serviços com Docker
+- Entrega de dados para dashboards, relatórios e aplicações
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🛠️ Tecnologias que conheço
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+
 </div>
+
+### Também tenho contato com
+- Airflow / Prefect
+- Databricks
+- PySpark
+- Pandas / NumPy
+- Arquitetura Medalhão (Bronze, Silver e Gold)
 
 ---
 
 ## 📚 Formação & Estudos
 
 - **Análise de Dados – EBAC** (concluído)
-- **Ciência de Dados – EIA (Escola de Inteligência Artificial)**
 - **Análise e Desenvolvimento de Sistemas – Unifatecie**
-- **AWS Re/Start** – fundamentos práticos de Cloud
 - **Google Data Analyst – Advanced**
+- **AWS re/Start** – fundamentos práticos de Cloud
+- **Pós-graduação em Engenharia de Dados e IA – Anhanguera**, em parceria com a **EmpregaDados**
+- Estudos contínuos em Engenharia de Dados, Cloud e processamento distribuído
 
 ---
 
 ## 📜 Certificações & Cursos
 
-- Scrum Foundation  
-- BI Foundation  
-- Métricas de Negócios Digitais (PM3)  
-- Databricks, Spark e Machine Learning  
-- Power BI + SQL Server  
-- SQL para Análise de Dados  
+- AWS Certified Cloud Practitioner
+- AWS re/Start – Cloud Computing
+- Databricks com Apache Spark e Machine Learning – EIA
+- Business Intelligence Foundation Professional Certification (BIFPC™)
+- Scrum Foundation Professional Certification (SFPC™)
 
 ---
 
@@ -75,12 +100,12 @@ Sou fundador da **14Bis Analítica**, onde desenvolvo soluções de **BI, Engenh
 
 ### 🔹 Engenharia de Dados
 **Pipeline de Dados no AWS**  
-Pipeline completo com ingestão de dados do Telegram, armazenamento em Data Lake e processamento batch.  
+Pipeline com ingestão de dados, armazenamento em Data Lake e processamento batch.  
 🔗 https://github.com/TonFLY/pipeline_dados_telegram_aws
 
 ---
 
-### 🔹 Aplicações de Dados
+### 🔹 Aplicações orientadas a dados
 **Análise de Crédito com Aplicação Web**  
 Aplicação web com Machine Learning para simulação de análise de crédito.  
 🔗 https://github.com/TonFLY/analise_credito_com_appweb
@@ -96,11 +121,13 @@ Aplicação web com Machine Learning para simulação de análise de crédito.
 
 ## 🎯 Objetivo
 
-Atuar em projetos onde dados **não sejam apenas análise**, mas **produto**, contribuindo com:
-- pipelines bem estruturados  
-- dados confiáveis  
-- soluções escaláveis  
-- impacto real no negócio  
+Atuar em projetos de **Engenharia de Dados**, contribuindo com:
+
+- pipelines robustos e escaláveis
+- dados confiáveis e bem estruturados
+- integrações eficientes entre sistemas
+- automação de processos de dados
+- soluções com impacto real no negócio
 
 ---
 
