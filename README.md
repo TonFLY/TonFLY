@@ -96,29 +96,6 @@ Também sou fundador da **14Bis Analítica**, iniciativa voltada ao desenvolvime
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔹 Engenharia de Dados
-**Pipeline de Dados no AWS**  
-Pipeline com ingestão de dados, armazenamento em Data Lake e processamento batch.  
-🔗 https://github.com/TonFLY/pipeline_dados_telegram_aws
-
----
-
-### 🔹 Aplicações orientadas a dados
-**Análise de Crédito com Aplicação Web**  
-Aplicação web com Machine Learning para simulação de análise de crédito.  
-🔗 https://github.com/TonFLY/analise_credito_com_appweb
-
----
-
-### 🔹 Análises & Dashboards
-**COVID-19 Brasil – EDA + Dashboard**  
-🔗 https://github.com/TonFLY/BRAZIL_COVID-19  
-🔗 https://lookerstudio.google.com/reporting/09fee03d-e295-42ba-a408-72f7e187a375
-
----
-
 ## 🎯 Objetivo
 
 Atuar em projetos de **Engenharia de Dados**, contribuindo com:
